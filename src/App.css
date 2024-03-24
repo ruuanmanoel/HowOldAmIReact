@@ -1,0 +1,22 @@
+.container{
+  background-color: #FFF;
+  width: 570px;
+  height: 500px;
+  padding: 30px;
+  border-radius: 30px;
+}
+.form-area{
+  display: flex;
+  gap: 30px;
+}
+.linha{
+  border-bottom: 1px solid #ccc;
+  flex: 1;
+}
+.area-divisor{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+
+}

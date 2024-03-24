@@ -1,0 +1,11 @@
+.container-tempo{
+    display: flex;
+    flex-direction: column;
+}
+.container-tempo span{
+    font-size: 50px;
+    font-weight: bold;
+}
+.interativo{
+    color: purple;
+}

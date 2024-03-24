@@ -1,0 +1,22 @@
+.container-inputs label{
+    font-size: 15px;
+    letter-spacing: 5px;
+    color: #494949;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 4px;
+}
+.container-inputs{
+    display: flex;
+    flex-direction: column;
+}
+.container-inputs input{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    padding: 1rem;
+    border-radius: 8px;
+    outline: none;
+    font-weight: bold;
+    border: 1px solid #ccc;
+}
